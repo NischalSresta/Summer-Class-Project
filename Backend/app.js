@@ -31,7 +31,7 @@ main().catch((err) => console.log(err));
 async function main() {
   await mongoose
     .connect(
-      "mongodb+srv://wostiayush555:wostiayush5695@cluster0.c4eci5f.mongodb.net/",
+      "mongodb+srv://nischal19:nischal1568@cluster0.c4eci5f.mongodb.net/",
       {
         dbName: "professor_database",
       }
